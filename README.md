@@ -32,7 +32,8 @@ Arquivos principais:
   " javac *.java
   
 3.Execute o programa:
-java Main  
+
+"java Main  
 
 ## Observações
 

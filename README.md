@@ -24,9 +24,13 @@ Arquivos principais:
 ## 🛠️ Como compilar e executar (Windows PowerShell)
 
 1. Abra o PowerShell e vá até a pasta do projeto:
+   
    cd "c:\Users\VitoriaLeticiadaSilv\Downloads\Calculadora"
+   
 2. Compile todos os arquivos Java:
-   javac *.java
+   
+  " javac *.java
+  
 3.Execute o programa:
 java Main  
 
